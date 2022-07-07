@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+body{
+    margin: 0;
+}
+.logo{
+    position: absolute;
+width: 264px;
+height: 264px;
+left: 139px;
+top: 140px;
+}
+.judul{
+    position: absolute;
+width: 619px;
+height: 76px;
+left: 139px;
+top: 436px;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 76px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bawah{
+    position: absolute;
+width: 453px;
+height: 50px;
+left: 139px;
+top: 550px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+
+color: #6A6A6A;
+
+} */
